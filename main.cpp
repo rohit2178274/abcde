@@ -6,7 +6,7 @@ class Node{
 public:
     int value;
     Node *next;
-
+// my first commit
 } ;
 Node *head;
 void insertNode(int n)
